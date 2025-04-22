@@ -3,7 +3,7 @@ def modify_content(content):
     return content.upper()
 
 def main():
-    filename = input("Enter the name of the file to read: ")
+    filename = input("python ")
 
     try:
         with open(filename, "r") as file:
